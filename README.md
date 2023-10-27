@@ -1,5 +1,5 @@
 # Multi-Person-Face-Recognition
-The project is to create a trained ML model that can perform multi-person identification in the live video feed on NVIDIA A100 DGX Server. 
+The project is to create a trained ML model that can perform multi-person identification in the live video feed on NVIDIA DGX A100 Server. 
 
 
 We have used popular DLib and face_recognition libraries as the basis of the project 
