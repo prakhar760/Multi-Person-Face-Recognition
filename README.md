@@ -15,5 +15,5 @@ We have used popular DLib and face_recognition libraries as the basis of the pro
     2. On Local Machine
         - `docker build -t Multi-Person-Face-Recognition:latest -f Dockerfile.local .`
 
-## Running the Docker Image
+
 
